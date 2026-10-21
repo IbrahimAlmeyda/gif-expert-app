@@ -20,7 +20,7 @@ Aplicación web desarrollada con **Vite + React + TypeScript** que permite explo
 ## 🖼️ Capturas de pantalla
 
 ![Vista de productos](./src/assets/images/desktop-preview.webp)
-Puedes ver la versión demo en vivo aquí: [Gif Expert App](https://sparkling-trifle-15561b.netlify.app/)
+Puedes ver la versión demo en vivo aquí: [Gif Expert App](https://gif-expert-app-gold-psi.vercel.app/)
 ---
 
 ## 🧪 Tecnologías usadas
@@ -69,4 +69,4 @@ VITE_GIPHY_API_KEY=tu_clave_aqui
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Ibrahim Almeyda](https://github.com/IbrahimAlmeyda/gif-expert-app)**.
+Desarrollado por **[Ibrahim Almeyda](https://github.com/IbrahimAlmeyda)**.
