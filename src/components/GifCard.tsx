@@ -16,7 +16,7 @@ export default function GifCard({ gif }: GifCardProps) {
 
   return (
     <>
-      <figure className='w-full max-w-[350px] bg-white rounded-b overflow-hidden shadow'>
+      <figure className='w-full max-w-[350px] mx-auto bg-white rounded-b overflow-hidden shadow'>
         <img src={gif.url} alt={gif.title} className='w-full object-cover' />
         <figcaption className='relative py-5 px-2 text-base text-background text-center font-medium'>
           {gif.title}

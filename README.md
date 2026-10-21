@@ -38,10 +38,10 @@ Puedes ver la versión demo en vivo aquí: [Gif Expert App](https://sparkling-tr
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/gif-explorer.git
+git clone https://github.com/IbrahimAlmeyda/gif-expert-app.git
 
 # Entra al proyecto
-cd gif-explorer
+cd gif-expert-app
 
 # Instala las dependencias
 npm install
@@ -69,4 +69,4 @@ VITE_GIPHY_API_KEY=tu_clave_aqui
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
+Desarrollado por **[Ibrahim Almeyda](https://github.com/IbrahimAlmeyda/gif-expert-app)**.
