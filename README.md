@@ -98,6 +98,8 @@ La aplicación estará disponible en `http://localhost:5173/`
 ## Agradecimientos
 - [Giphy API](https://developers.giphy.com/) por proporcionar acceso a los GIFs
 
-## Autor
-Desarrollado con ❤️ por **[Ibrahim Almeyda](https://github.com/IbrahimAlmeyda)**.
+---
 
+<div align="center">
+  <p>Desarrollado con ❤️ por <a href="https://github.com/IbrahimAlmeyda">Ibrahim Almeyda</a></p>
+</div>
